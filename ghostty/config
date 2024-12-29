@@ -1,6 +1,6 @@
 theme = catppuccin-mocha
 font-size = 13.5 
-adjust-cell-height = 35%
+adjust-cell-height = 40%
 font-family = "hack"
 
 

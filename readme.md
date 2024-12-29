@@ -43,6 +43,8 @@ Create symlinks:
 ```bash
 # WezTerm config symlink
 ln -s ~/.config/term-config/wezterm/wezterm.lua ~/.wezterm.lua
+# Ghostty config symlink - needs ghostty folder
+ln -s ~/.config/term-config/ghostty/config ~/.config/ghostty/config
 ```
 
 ## Tool-specific Setup
