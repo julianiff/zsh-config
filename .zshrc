@@ -62,7 +62,7 @@ function y() {
 }
 
 # Bun setup
-[ -s "/Users/julianiff/.bun/_bun" ] && source "/Users/julianiff/.bun/_bun"
+[ -s "$HOME/.bun/_bun" ] && source "$HOME/.bun/_bun"
 export BUN_INSTALL="$HOME/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
 
