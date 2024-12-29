@@ -1,7 +1,6 @@
 local wezterm = require("wezterm")
 local config = wezterm.config_builder()
 
--- Color definitions for tab bar
 config.keys = {
 	{
 		key = "d",
@@ -41,7 +40,7 @@ config.keys = {
 	},
 }
 
--- Your existing settings
+-- term settings
 config.color_scheme = "Catppuccin Macchiato"
 config.line_height = 1.35
 config.font_size = 14
