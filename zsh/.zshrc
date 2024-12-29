@@ -1,4 +1,5 @@
 export PATH="/opt/homebrew/bin:$PATH"
+
 # Install zinit if not installed
 ZINIT_HOME="${XDG_DATA_HOME:-${HOME}/.local/share}/zinit/zinit.git"
 if [[ ! -f ${ZINIT_HOME}/zinit.zsh ]]; then
