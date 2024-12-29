@@ -39,7 +39,7 @@ alias npm='unalias npm && [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh" && npm
 # Path configurations
 export PATH="/usr/bin/python3:$PATH"
 export PATH="/Applications/PhpStorm.app/Contents/MacOS:$PATH"
-export PNPM_HOME="/Users/julianiff/Library/pnpm"
+export PNPM_HOME="$HOME/Library/pnpm"
 export PATH="$PNPM_HOME:$PATH"
 export GOPATH=$HOME/go
 export EDITOR=nvim
