@@ -8,12 +8,12 @@ Install the following tools using Homebrew:
 
 ```bash
 # Install essential tools
-brew install starship            # Modern prompt
-brew install autojump           # Quick directory navigation
-brew install zsh-autosuggestions # Fish-like autosuggestions
-brew install lazygit            # Terminal UI for git
-brew install lazydocker         # Terminal UI for docker
-brew install --cask wezterm     # Modern terminal emulator
+brew install starship            
+brew install autojump           
+brew install zsh-autosuggestions 
+brew install lazygit            
+brew install lazydocker         
+brew install --cask wezterm     
 
 # Install fonts
 brew tap homebrew/cask-fonts
