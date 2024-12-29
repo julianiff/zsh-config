@@ -26,7 +26,7 @@ zinit snippet OMZP::git
 [ -f /opt/homebrew/etc/profile.d/autojump.sh ] && . /opt/homebrew/etc/profile.d/autojump.sh
 
 # Initialize starship
-export STARSHIP_CONFIG="$HOME/.config/starship/starship.toml"
+export STARSHIP_CONFIG="$HOME/.config/zsh/starship/starship.toml"
 
 eval "$(starship init zsh)"
 
