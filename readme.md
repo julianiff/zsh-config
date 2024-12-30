@@ -1,6 +1,6 @@
 # Terminal Configuration Setup
 
-This guide explains how to set up your terminal environment using these dotfiles.
+Explains how to set up the terminal environment.
 
 ## Required Tools
 
